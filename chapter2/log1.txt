@@ -1,0 +1,40 @@
+Reinitialized existing Git repository in C:/Users/rando/repos/randomsort/practical-git/chapter2/basic-repo/.git/
+[master 9bc9226] Initial commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 B
+Running Example
+A
+B
+C
+D
+On branch master
+nothing to commit, working tree clean
+On branch master
+nothing to commit, working tree clean
+On branch master
+nothing to commit, working tree clean
+On branch master
+nothing to commit, working tree clean
+On branch master
+nothing to commit, working tree clean
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    B
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4696a6f] Remove B
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 B
+On branch master
+nothing to commit, working tree clean
+On branch master
+nothing to commit, working tree clean
+On branch master
+nothing to commit, working tree clean
+On branch master
+nothing to commit, working tree clean
+On branch master
+nothing to commit, working tree clean
