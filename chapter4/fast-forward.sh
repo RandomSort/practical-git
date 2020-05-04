@@ -12,3 +12,5 @@ echo "\n additional content" >> 0.txt
 git add .
 git commit -m "second commit"
 
+touch 1.txt
+
