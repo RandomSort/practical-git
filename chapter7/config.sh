@@ -2,6 +2,8 @@
 name=config
 echo $name
 rm -rf $name
+mkdir $name
+cd $name
 git init $name-ACME
 git init $name-AJAX
 
