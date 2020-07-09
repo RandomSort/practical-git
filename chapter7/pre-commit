@@ -8,4 +8,5 @@ then
     exit 1
 else
     echo "Commit freely on this branch"
+    exit 0
 fi
